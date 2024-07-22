@@ -1,0 +1,13 @@
+.custom-select {
+    margin-bottom: 1rem;
+  }
+  
+  .react-select__option--is-focused {
+    background-color: #e0e7ff;
+  }
+  
+  .react-select__option--is-selected {
+    background-color: #a5b4fc;
+    color: white;
+  }
+  
